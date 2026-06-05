@@ -56,3 +56,6 @@ Vengo del cruce entre desarrollo de software (DAM) y administración de sistemas
 ---
 
 *Abierto a oportunidades como desarrollador backend. Si buscas a alguien con criterio, base sólida y mentalidad de seguridad — hablemos.*
+<p align="center">
+  <img src="https://i.redd.it/bu1weaikjewy.gif" alt="Persona Gif" />
+</p>
