@@ -51,7 +51,6 @@ Vengo del cruce entre desarrollo de software (DAM) y administración de sistemas
 ### Contacto
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Sebi_Burghelea-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mihai-sebastian-burghelea-48870520b/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-mihaisebastian.vercel.app-000?style=flat&logo=vercel&logoColor=white)](https://mihaisebastian-pied.vercel.app/)
 
 ---
 
